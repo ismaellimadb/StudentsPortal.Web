@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\imlbl\\onedrive\\desktop\\gitrepos\\studentportal.web\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B39B70-AE13-4D23-934D-591625027BDA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:07:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T15:07:26.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T15:04:03.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:53:41.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T14:39:32.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:41:47.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T13:31:49.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\imlbl\\OneDrive\\Desktop\\GitRepos\\StudentPortal.Web\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:30:59.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
